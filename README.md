@@ -1,2 +1,5 @@
-# Gr-nd-cher_als_Beitrag_zu_einer_klimafreundlichen_Stadt_Code
-Gründächer als Beitrag zu einer klimafreundlichen Stadt - Eine Flächenanalyse anhand von Luftbildauf-nahmen im Stadtgebiet Hamburg. Code zur Masterarbeit
+Dieses Repository agiert lediglich als Ort um den Code zur Masterarbeit "Gründächer als Beitrag zu einer klimafreundlichen Stadt - Eine Flächenanalyse anhand von Luftbildauf-nahmen im Stadtgebiet Hamburg" zu veröffentlichen.
+
+
+
+Der Code wird entsprechend der Lizenz ohne irgendeine Form von Gewährleistung oder Haftung zur Verfügung gestellt.
